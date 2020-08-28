@@ -1,0 +1,36 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background: #e74c3c;
+    font-family: sans-serif;
+
+    font-size: 25px;
+}
+.code{
+    margin-left: 77%;
+    margin-top: 15px;
+}
+h3{
+    color: white;
+    display: inline;
+    font-weight: 500;
+}
+#hex{
+    display: inline;
+    color: white;
+    text-transform: uppercase;
+}
+
+.color button{
+    display: block;
+    font-size: 22px;
+    background: none;
+    color: white;
+    border: 3px solid white;
+    border-radius: 15px;
+    cursor: pointer;
+    margin-top: 30%;
+    text-align: center;
+    margin-left: 45%;
+    padding: 10px;
+}
